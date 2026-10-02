@@ -5,7 +5,7 @@ import pandas as pd
 @st.cache_resource
 def load_model():
     return joblib.load(
-        "models/sentiment_pipeline.joblib"
+        sentiment_pipeline.joblib"
     )
 
 model = load_model()
