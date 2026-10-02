@@ -68,7 +68,7 @@ if len(text) > 5000:
     st.error("Please keep the input below 5000 characters.")
 
 chart_data = pd.DataFrame({
-    "Class": classes,
+    
     "Probability": probabilities
 })
 
