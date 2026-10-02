@@ -254,17 +254,14 @@ Replace the placeholder above with your actual deployed URL.
 ```text
 nlp-text-classifier/
 │
-├── data/
-│   └── nlp_text_classifier_2000.csv
+├── Data/
+│   └── data.csv
 │
 ├── models/
 │   └── sentiment_pipeline.joblib
 │
 ├── notebooks/
-│   └── nlp_training.ipynb
-│
-├── src/
-│   └── preprocessing.py
+│   └── sentiment_training.ipynb
 │
 ├── app.py
 ├── requirements.txt
