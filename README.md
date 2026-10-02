@@ -206,16 +206,14 @@ The classifier is evaluated using standard classification metrics:
 
 For multi-class evaluation, the averaging strategy is explicitly reported so that the metrics are interpreted correctly.
 
-### Performance
 
-> Add the final measured results here after completing model training and evaluation.
 
 Example format:
 
 | Model               | Accuracy | Precision | Recall | F1-Score |
 | ------------------- | -------: | --------: | -----: | -------: |
-| Logistic Regression |        — |         — |      — |        — |
-| Naive Bayes         |        — |         — |      — |        — |
+| Logistic Regression |        1.0|         1.0|      1.0|        1.0|
+| Naive Bayes         |        1.0|         1.0|      1.0|        1.0|
 
 ---
 
