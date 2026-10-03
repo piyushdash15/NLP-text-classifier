@@ -243,7 +243,7 @@ The interface is designed to be simple enough for a first-time user while still 
 
 ### Planned / Deployed Demo
 
-**Live Demo:** `YOUR_STREAMLIT_APP_URL`
+**Live Demo:** `nlp-text-classifier-8kjsarbciiuebpxfmssnxp.streamlit.app`
 
 Replace the placeholder above with your actual deployed URL.
 
